@@ -1,0 +1,13 @@
+#start {
+    font-size:x-large; 
+    text-align:center;
+    font-weight: bolder;
+    background-color:lightcoral;
+}
+
+#next {
+    font-size:large;
+    font-family:fantasy;
+    color: rgb(88, 63, 117);
+    text-align:center
+}
