@@ -17,4 +17,6 @@
     margin-right: auto;
     width: 50%;
   }
-  
+.rotate-image {
+    transform: rotate(150deg);
+}
