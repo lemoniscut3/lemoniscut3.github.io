@@ -4,12 +4,20 @@
     font-weight: bolder;
     background-color:lightcoral;
 }
-
 #next {
     font-size:large;
     font-family:fantasy;
     color: rgb(88, 63, 117);
-    text-align:center
+    text-align:center;
+}
+#nexttwo{
+    font-size:large;
+    margin-bottom:5%;
+    text-align:center;
+    font-family:fantasy;
+    color: rgb(88, 63, 117)
+    
+    
 }
 .center {
     display: block;
@@ -17,6 +25,30 @@
     margin-right: auto;
     width: 50%;
   }
-.rotate-image {
-    transform: rotate(150deg);
+.cool-button {
+    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+    color: #fff;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 25px;
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+}
+.cool-button:hover {
+    background: linear-gradient(135deg, #fad0c4, #ff9a9e);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    transform: scale(1.05);
+}
+.cool-button:active {
+    transform: scale(0.95);
+}
+#link-section {
+    text-align: center;
+    margin-top: 30px;
 }
