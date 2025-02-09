@@ -1,6 +1,18 @@
-#title {
+#titles {
     font-size:xx-large;
     font-family:'Gill Sans';
     font-weight:500;
     color:rgb(54, 31, 31);
 }
+body {
+    background-image: url(pretty-clouds.avif);
+}
+.menu {
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Gill Sans';
+    width: 70%;
+    background-color: rgb(255, 230, 235);
+    margin-left: auto;
+    margin-right: auto;
+  }
