@@ -17,5 +17,11 @@ body {
     margin-right: auto;
   }
 .selection {
-    flex-direction:row;
+    flex-direction: row-reverse;;
+    font-size: xx-large;
+    font-family:'Gill Sans';
+    width: 70%;
+    background-color: rgb(255, 230, 235);
+    margin-left: auto;
+    margin-right: auto;
 }
