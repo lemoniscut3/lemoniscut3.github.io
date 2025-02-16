@@ -1,6 +1,6 @@
 #titles {
     font-size:xx-large;
-    font-family:'fantasy';
+    font-family:'Fantasy';
     font-weight:500;
     color:rgb(54, 31, 31);
 }
@@ -10,7 +10,7 @@ body {
 .menu {
     text-align: center;
     font-size: xx-large;
-    font-family:'fantasy';
+    font-family:'Fantasy';
     width: 70%;
     background-color: rgb(255, 230, 235);
     margin-left: auto;
@@ -19,7 +19,7 @@ body {
 .selection {
     flex-direction: row;
     font-size: xx-large;
-    font-family:'fantasy';
+    font-family:'Fantasy';
     width: 70%;
     background-color: rgb(255, 230, 235);
     margin-left: auto;
