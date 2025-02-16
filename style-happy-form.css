@@ -8,6 +8,7 @@ body {
     background-image: url(images/pretty-clouds.avif);
 }
 .menu {
+    text-align: center;
     font-size: xx-large;
     font-family:'Gill Sans';
     width: 70%;
