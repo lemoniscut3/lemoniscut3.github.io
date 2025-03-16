@@ -20,7 +20,7 @@
     
 }
 .center {
-    border: 5px snow;
+    border: 10px solid snow;
     border-radius: 50px;
     display: block;
     margin-left: auto;
