@@ -109,8 +109,8 @@
   }
   
   #player-album-art {
-    background-color: var(--secondary-color);
-    border: 6px solid var(--background-color);
+    background-color: rgb(244, 218, 218);
+    border: 6px solid var(--primary-color);
   }
   
   #player-album-art img {
@@ -340,7 +340,7 @@
       z-index: -100;
       height: 280px;
       box-shadow: none;
-      background: #000;
+      background: #f0d3d3;
     }
   
     #player-album-art img {
